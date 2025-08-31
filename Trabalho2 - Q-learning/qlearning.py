@@ -7,7 +7,7 @@ import numpy as np
 
 from env_blackjack import BlackjackEnv
 
-State = Tuple[int, int, int]  # (player_sum, dealer_upcard, usable_ace)
+State = Tuple[int, int, int]  #(player_sum, dealer_upcard, usable_ace)
 
 def epsilon_greedy(Q: Dict[State, np.ndarray], state: State, epsilon: float) -> int:
     #escolhe ação 0/1 com política ε-gulosa.
