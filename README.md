@@ -1,1 +1,1 @@
-Repositório criado para armazenar os trabalhos feitos para a disciplina de Inteligencia Artificial. Cada trabalho feito terá sua própria pasta aqui dentro do diretório com seu README próprio descrevendo melhor a construção de cada um.
+Repositório criado para a disciplina Inteligencia Artificial. Cada trabalho terá seu diretório aqui com um README próprio.
